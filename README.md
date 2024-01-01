@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 
-<p align="left"> <a href="https://twitter.com/backendHimansh" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/backendHimansh" target="blank"><img src="https://img.shields.io/twitter/follow/backendHimansh?logo=twitter&style=for-the-badge" alt="Himanshu Khatarkar" /></a> </p>
 
 - 🔭 I’m currently learning **MERN Stack Development**
 
