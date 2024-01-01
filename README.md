@@ -34,6 +34,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/typescript.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/BackendDevelopment/spring.svg" alt="springboot" width="40" height="40"/> </a> </p>
 
-
+---
 
 
