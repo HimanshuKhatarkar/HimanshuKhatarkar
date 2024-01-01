@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **k.himansh97@gmail.com**
 
-- 📄 Know about my experiences []()
+- 📄 Know about my experiences [My Website](https://himanshukhatarkar.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
