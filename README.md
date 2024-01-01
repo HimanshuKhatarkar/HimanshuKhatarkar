@@ -20,6 +20,8 @@
 <a href="https://linkedin.com/in/himanshu-khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himanshu Khatarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/developer_himansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HimanshuKhatarkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Himanshu_Khatarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HimanshuKhatarkar" height="30" width="40" /></a>
+<a href="https://himanshukhatarkar.github.io" target="blank"><i class="fa-solid fa-globe"></i></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
