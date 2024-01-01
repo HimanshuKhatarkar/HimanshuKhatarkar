@@ -1,4 +1,6 @@
-### Hi there 👋 I am a Software Development Engineer | Ex - Amazon 
+### Hi there 👋 I am Himanshu Khatarkar
+---
+### I am a Software Development Engineer | Ex - Amazon 
 
 <!--
 **HimanshuKhatarkar/HimanshuKhatarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
