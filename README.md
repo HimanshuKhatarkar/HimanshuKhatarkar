@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, C++, DSA, **
 
-- 📫 How to reach me **vivek.nsut@gmail.com**
+- 📫 How to reach me **k.himansh97@gmail.com**
 
 - 📄 Know about my experiences []()
 
