@@ -36,5 +36,5 @@
 
 ---
 
-<h3 align="center" >If you like my work pleadse give me a Star⭐🌟 it really helps</h3>
+<h3 align="center" >If you like my work please give me a Star⭐🌟 it really helps</h3>
 
