@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently learning **MERN Stack Development**
 
+- 👨‍💻 I'm currently working on [Vespa](https://github.com/vespa-engine/vespa) & [ContentAlchemy](https://www.github.com/HimanshuKhatarkar/ContentAlchemy) & []
+
 - 💬 Ask me about **Java, C++, DSA, **
 
 - 📫 How to reach me **k.himansh97@gmail.com**
