@@ -10,7 +10,7 @@
 
 - 👨‍💻 I'm currently working on [Vespa](https://github.com/vespa-engine/vespa) & [ContentAlchemy](https://www.github.com/HimanshuKhatarkar/ContentAlchemy) []()
 
-- 💬 Ask me about **Java, C++, DSA, **
+- 💬 Ask me about **Java, C++, DSA, Backend Development, Amazon**
 
 - 📫 How to reach me **k.himansh97@gmail.com**
 
